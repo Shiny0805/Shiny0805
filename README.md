@@ -1,8 +1,8 @@
-### Full Stack || Ecommerce || Blockchain Engineer 👋
+# Full Stack || Ecommerce || Blockchain Engineer 👋
 
-# Passionate software engineer with expertise in full-stack development, specializing in e-commerce solutions and blockchain technologies. Experienced in designing, developing, and deploying robust web applications with a focus on scalability, security, and user experience.
+### Passionate software engineer with expertise in full-stack development, specializing in e-commerce solutions and blockchain technologies. Experienced in designing, developing, and deploying robust web applications with a focus on scalability, security, and user experience.
 
-# Skills:
+### Skills:
   Languages: JavaScript (Node.js, TypeScript), HTML/CSS, Python, Solidity, Rust, C++, WordPress, PHP, Laravel
   Frontend: Angular, React.js, Vue.js, Bootstrap, Tailwind CSS, Material-UI, Next.js, Nuxt.js
   Backend: Express.js, Flask, Django, Golang, Docker, C#, Restful API
@@ -12,5 +12,5 @@
   DevOps: Docker, Kubernetes, CI/CD pipelines
   Tools: Git, GitHub, VS Code, Postman
 
-# Education:
+### Education:
   Bachelor of Science in Computer Science, Lund University, 2016
