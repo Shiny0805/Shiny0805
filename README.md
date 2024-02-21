@@ -1,16 +1,16 @@
-### Hi there 👋
+### Full Stack || Ecommerce || Blockchain Engineer 👋
 
-<!--
-**Shiny0805/Shiny0805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Passionate software engineer with expertise in full-stack development, specializing in e-commerce solutions and blockchain technologies. Experienced in designing, developing, and deploying robust web applications with a focus on scalability, security, and user experience.
 
-Here are some ideas to get you started:
+# Skills:
+  Languages: JavaScript (Node.js, TypeScript), HTML/CSS, Python, Solidity, Rust, C++, WordPress, PHP, Laravel
+  Frontend: Angular, React.js, Vue.js, Bootstrap, Tailwind CSS, Material-UI, Next.js, Nuxt.js
+  Backend: Express.js, Flask, Django, Golang, Docker, C#, Restful API
+  Database: MongoDB, PostgreSQL, MySQL, Firebase
+  Blockchain: Ethereum, Smart Contracts, Web3.js, Truffle
+  Ecommerce: Shopify, Shopify Plus, Shopify Theme Customization, Shopify App, Shopify CustomApp, Woocommerce
+  DevOps: Docker, Kubernetes, CI/CD pipelines
+  Tools: Git, GitHub, VS Code, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Education:
+  Bachelor of Science in Computer Science, Lund University, 2016
